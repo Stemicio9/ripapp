@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671179521072",
+    "project_id": "ripapp-5cfab",
+    "storage_bucket": "ripapp-5cfab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671179521072:android:9f3d1eb572c67b07e881f5",
+        "android_client_info": {
+          "package_name": "com.ripapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671179521072-6vo7cano3a8i0jfv19k1vh3oisckpo1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9RTgemZn95Yy1TklvO6aTgX7DlKZ_7kE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671179521072-6vo7cano3a8i0jfv19k1vh3oisckpo1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
