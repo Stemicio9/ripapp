@@ -2,9 +2,9 @@ class Configuration {
 
   static double APP_VERSION = 0.1;
 
-//  static String SERVER_URL = "https://app.ripapp.it/api/";
+  static String SERVER_URL = "https://app.ripapp.it/api/";
 
-  static String SERVER_URL = "http://192.168.1.125:48795/api/";
+//  static String SERVER_URL = "http://192.168.1.125:48795/api/";
 
   //configuration
   static final String APP_UNIQUE_DONWLOAD_URL = "http://onelink.to/w9s89d";
